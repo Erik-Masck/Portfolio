@@ -5,3 +5,10 @@
     display: block;
     width:100%;
 }
+.Right{
+    background-color:#289E97;
+    padding: 0.5%;
+    text-align: center;
+    color: white;
+    margin-bottom: 0%;
+}
