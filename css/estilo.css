@@ -59,8 +59,15 @@
     font-size: 50px;
 }
 
-/*Serviços*/
-.Links-Imagens{
+/*Imagens dos trebalhos no portilofio*/
+
+.Links-Imagens {
+    background-color: white;
+    display: flex;
+
+}
+.Links-Imagens ul{
+    list-style-type: none;
 
 }
 
