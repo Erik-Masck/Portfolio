@@ -27,18 +27,19 @@
 .Social img{
     width: 50px;
 }
-.Home{
+.Home ul{
     list-style-type: none;
     display: flex;
     margin-left: 70%;
     margin-top: -12%;}
-.Home li a{
+.Home ul li a{
     color: white;
     text-decoration: none;
     padding: 10px;
     font-size: 3ex;
+    transition: .4s;
 }
-.Home li a:hover{
+.Home ul li a:hover{
     color: #289E97;
 }
 /*Serviços*/
