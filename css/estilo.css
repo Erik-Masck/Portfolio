@@ -1,7 +1,7 @@
 /*Menu*/
 .Menu{
     background-color:#00dbe0;
-    height: 700px;
+    height: 600px;
 }
 .Dev{
     color: black;
@@ -15,7 +15,7 @@
     border-radius: 50%;
     border: solid 2px white;
     width: 150px;
-    margin-left: 600px;
+    margin-left: 610px;
     margin-top: 1%;
 }
 .Social{
