@@ -64,6 +64,9 @@
 .Links-Imagens {
     background-color: white;
     display: flex;
+    padding-top: 2%;
+    height: 50%;
+
 
 }
 .Links-Imagens ul{
@@ -75,7 +78,7 @@
 /*Sobre*/
 .Sobre{
     background-color: white;
-    height: 500 px;
+    height: 25%;
     text-align: center;
     margin-top: 10%;
 }
