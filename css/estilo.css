@@ -1,4 +1,6 @@
+
 /*Menu*/
+
 .Menu{
     background-color:#00dbe0;
     height: 600px;
@@ -42,6 +44,7 @@
 .Home ul li a:hover{
     color: #289E97;
 }
+
 /*Serviços*/
 .Servicos{
     background-color: white;
@@ -51,12 +54,24 @@
 }
 .Servicos-Titulo{
     color: black;
-    text-shadow: 2px 2px #cdd3d8;
+    text-shadow: 3px 3px #cdd3d8;
     padding-left: 1%;
     font-size: 50px;
-
 }
 
+/*Sobre*/
+.Sobre{
+    background-color: white;
+    height: 250px;
+    text-align: center;
+    margin-top: 10%;
+}
+.Sobre-Titulo{
+    color: black;
+    text-shadow: 3px 3px #cdd3d8;
+    padding-left: 1%;
+    font-size: 50px;
+}
 
 
 
