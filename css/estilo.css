@@ -3,7 +3,7 @@
 
 .Menu{
     background-color:#00dbe0;
-    height: 600px;
+    height: 1500px;
 }
 .Dev{
     color: black;
@@ -62,7 +62,7 @@
 /*Sobre*/
 .Sobre{
     background-color: white;
-    height: 250px;
+    height: 250 px;
     text-align: center;
     margin-top: 10%;
 }
