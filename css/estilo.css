@@ -1,6 +1,7 @@
 /*Menu*/
 .Menu{
     background-color:#00dbe0;
+    height: 300px;
 }
 .Dev{
     color: black;
@@ -13,10 +14,27 @@
 .Perfil{
     border-radius: 50%;
     border: solid 2px white;
-    width: 200px;
+    width: 150px;
     margin-left: 550px;
-    margin-top: 2%;
+    margin-top: 1%;
 }
+.Social{
+    list-style-type: none;
+    display: flex;
+    margin-left: 37.5%;
+    margin-top: -8%;
+}
+.Social img{
+    width: 50px;
+}
+.Home{
+    list-style-type: none;
+    display: flex;
+    margin-left: 70%;
+    margin-top: -12%;
+
+}
+
 
 
 /*Rodape*/
