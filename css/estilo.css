@@ -73,10 +73,13 @@
     list-style-type: none;
 }
 .Links-Imagens li{
-    background-color: #cdd3d8;
-    background-image: 5px 5px 5px 5px;
     width: 100%;
     height: 100%;
+}
+.Links-Imagens img{
+    width: 100%;
+    height: auto;
+    border-radius: 2%;
 }
 
 
