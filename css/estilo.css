@@ -96,7 +96,7 @@
     float: left;    
     margin-top: 0;    
     background-color:#00dbe0;
-    height: 250px;
+    height: 295px;
     display: block;
     width:100%;}
 .Contato{
@@ -111,10 +111,30 @@
     padding-left: 1%;
     font-size: 20px;
 }
+.Menu-rodape ul{
+    list-style-type: none;
+    display: flex;
+    margin-left: 70%;
+    margin-top: 0%;
+}
+.Menu-rodape ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 3ex;
+    transition: .4s;
+}
+.Menu-rodape li a:hover{
+    color: #289E97;
+}
+
+
 .Right{
     background-color:#289E97;
-    padding: 0.3%;
+    font-size: 17px;
+    padding: 0.5%;
     text-align: center;
     color: white;
     margin-bottom: auto;
-    height: 25px;}
+    margin-top: 2%;
+    height: 28px;}
