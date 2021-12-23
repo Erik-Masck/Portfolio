@@ -123,14 +123,14 @@
 .Menu-rodape ul{
     list-style-type: none;
     display: flex;
-    margin-left: 70%;
+    margin-left: 75%;
     margin-top: 0%;
 }
 .Menu-rodape ul li a{
     color: white;
     text-decoration: none;
     padding: 10px;
-    font-size: 3ex;
+    font-size: 18px;
     transition: .4s;
 }
 .Menu-rodape li a:hover{
