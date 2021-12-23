@@ -3,7 +3,7 @@
 
 .Menu{
     background-color:#00dbe0;
-    height: 1500px;
+    height: 1800px;
 }
 .Dev{
     color: black;
@@ -116,4 +116,5 @@
     padding: 0.3%;
     text-align: center;
     color: white;
-    margin-bottom: auto;}
+    margin-bottom: auto;
+    height: 25px;}
