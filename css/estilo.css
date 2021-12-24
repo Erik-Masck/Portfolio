@@ -52,12 +52,13 @@
     height: 155px;
     text-align: center;
     margin-top: 10%;
+    padding-top: 2.5%;
 }
 .Servicos-Titulo{
     color: black;
     text-shadow: 3px 3px #cdd3d8;
     padding-left: 1%;
-    font-size: 50px;
+    font-size: 55px;
 }
 
 /*Imagens dos trebalhos no portilofio*/
@@ -90,9 +91,10 @@
 
 .Sobre{
     background-color: white;
-    height: 200px;
+    height: 400px;
     text-align: center;
-    margin-top: 15%;
+    margin-top: 0%;
+    padding-top: 1%;
 }
 .Sobre-Titulo{
     color: black;
@@ -110,7 +112,9 @@
     background-color:#00dbe0;
     height: 295px;
     display: block;
-    width:100%;}
+    width:100%;
+    padding-top: 0%;
+}
 .Contato{
     color: white;
     text-shadow: 1px 1px black;
