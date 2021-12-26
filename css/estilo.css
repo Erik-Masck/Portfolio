@@ -52,10 +52,10 @@
 
 .Servicos{
     background-color: white;
-    height: 155px;
+    height: 125px;
     text-align: center;
-    margin-top: 10%;
-    padding-top: 2.5%;
+    margin-top: 1%;
+    padding-top: 1%;
 }
 .Servicos-Titulo{
     color: black;
@@ -98,7 +98,7 @@
 
 .Sobre{
     background-color: white;
-    height: 340px;
+    height: 360px;
     text-align: center;
     margin-top: 0%;
     padding-top: 1%;
@@ -117,7 +117,7 @@
     float: left;    
     margin-top: 0;    
     background-color:#00dbe0;
-    height: 350px;
+    height: 300px;
     display: block;
     width:100%;
     padding-top: 0%;
@@ -127,8 +127,10 @@
     text-shadow: 1px 1px black;
     padding-left: 1%;
     font-size: 25px;
+    margin-top: 2%;
 }
 .Atendimento{
+    padding-top: 165px;
     color: black;
     font-weight: bold;
     padding-left: 1%;
