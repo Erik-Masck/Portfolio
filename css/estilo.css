@@ -65,6 +65,7 @@
     font-size: 55px;
 }
 
+
 /*Imagens dos trebalhos no portilofio*/
 
 .Links-Imagens {
@@ -86,6 +87,10 @@
     height: 300px;
     border-radius: 2%;
 }
+.Links-Imagens img:hover{
+    background-color: 
+}
+
 .Bloco{
     padding: 3%;
     margin: 2%;
@@ -109,6 +114,9 @@
     text-shadow: 3px 3px #cdd3d8;
     padding-left: 1%;
     font-size: 55px;
+}
+.Sobre p{
+    margin: 1%;
 }
 
 
