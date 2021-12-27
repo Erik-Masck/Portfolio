@@ -5,14 +5,14 @@
 }
 .Menu{
     background-color:#00dbe0;
-    padding: 9%;
+    padding:7%;
     
 }
 .Dev{
     color: black;
-    text-shadow: 2px 2px #cdd3d8;
-    margin-top: -240px;
-    padding-left: 6%;
+    text-shadow: 3px 3px #cdd3d8;
+    margin-top: -275px;
+    padding-left: auto;
     font-size: 45px;
     line-height: 6.5;
 }
@@ -20,14 +20,15 @@
     border-radius: 50%;
     border: solid 2px white;
     width: 150px;
-    margin-left: 610px;
-    margin-top: 1%;
+    margin-left: 550px;
+    margin-top: 2%;
 }
 .Social{
     list-style-type: none;
     display: flex;
-    margin-left: 42%;
-    margin-top: -8%;
+    margin-left: 550px;
+    margin-top: -7%;
+    padding-top: 2%;
 }
 .Social img{
     width: 50px;
@@ -35,12 +36,12 @@
 .Home ul{
     list-style-type: none;
     display: flex;
-    margin-left: 70%;
-    margin-top: -12%;}
+    margin-left: 80%;
+    margin-top: -10%;}
 .Home ul li a{
     color: white;
     text-decoration: none;
-    padding: 10px;
+    padding: 8px;
     font-size: 3ex;
     transition: .4s;
 }
