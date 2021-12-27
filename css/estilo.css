@@ -140,7 +140,7 @@
 .Social-rodape{
     list-style-type: none;
     display: flex;
-    margin-left: 42%;
+    margin-left: 700px;
     margin-top: -8%;
 }
 .Social-rodape img{
@@ -149,7 +149,7 @@
 .Menu-rodape ul{
     list-style-type: none;
     display: flex;
-    margin-left: 75%;
+    margin-left: 80%;
     margin-top: 0%;
 }
 .Menu-rodape ul li a{
