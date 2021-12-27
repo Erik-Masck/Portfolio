@@ -99,7 +99,7 @@
 
 .Sobre{
     background-color: white;
-    height: 360px;
+    height: 310px;
     text-align: center;
     margin-top: 0%;
     padding-top: 1%;
@@ -118,10 +118,10 @@
     float: left;    
     margin-top: 0;    
     background-color:#00dbe0;
-    height: 300px;
+    height: 265px;
     display: block;
     width:100%;
-    padding-top: 0%;
+    padding-top: auto;
 }
 .Contato{
     color: white;
@@ -129,19 +129,21 @@
     padding-left: 1%;
     font-size: 25px;
     margin-top: 2%;
+    padding-top: -16%;
 }
 .Atendimento{
-    padding-top: 165px;
+    padding-top: 50px;
     color: black;
     font-weight: bold;
     padding-left: 1%;
     font-size: 20px;
+
 }
 .Social-rodape{
     list-style-type: none;
     display: flex;
-    margin-left: 700px;
-    margin-top: -8%;
+    margin-left: 650px;
+    margin-top: -7%;
 }
 .Social-rodape img{
     width: 50px;
@@ -172,4 +174,4 @@
     color: white;
     margin-bottom: auto;
     margin-top: 2%;
-    height: 28px;}
+    height: 26px;}
