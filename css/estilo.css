@@ -86,10 +86,15 @@
     width:95%;
     height: 300px;
     border-radius: 2%;
+    background-size:100% auto;
 }
-.Links-Imagens img:hover{
-    background-color: 
+
+.Texto-Img{
+    text-align: center;
+    text-shadow: 2px 2px #cdd3d8;
+    font-size: 150%;
 }
+
 
 .Bloco{
     padding: 3%;
