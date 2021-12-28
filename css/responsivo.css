@@ -8,4 +8,30 @@
     }
 
     @media only screen and (max-width: 570px) {
+        .Social{
+            list-style-type: none;
+            display: flex;
+            float: right;
+            margin-top: -50%;
+            padding-top: 3%;
+        }
+        .Social img{
+            width: 50px;
+        }
+        .Home ul{
+            list-style-type: none;
+            display: flex;
+            float: right;
+            margin-top: -10%;}
+        .Home ul li a{
+            color: white;
+            text-decoration: none;
+            padding: 8px;
+            font-size: 3ex;
+            transition: .4s;
+        }
+        .Home ul li a:hover{
+            color: #289E97;
+        }
+        
     }
