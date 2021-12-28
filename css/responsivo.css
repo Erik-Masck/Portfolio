@@ -1,22 +1,40 @@
 @media only screen and (max-width: 1200px) {
+    .foto-pequena{
+        display: none;
+    }
     }
 
     @media only screen and (max-width: 990px) {
+        .foto-pequena{
+            display: none;
+        }
     }
 
     @media only screen and (max-width: 770px) {
-    }
-
-    @media only screen and (max-width: 570px) {
-        .Social{
-            list-style-type: none;
-            display: flex;
-            float: right;
-            margin-top: -50%;
-            padding-top: 3%;
+        .foto-pequena{
+            display: none;
         }
-        .Social img{
-            width: 50px;
+    }
+    @media only screen and (max-width: 570px) {
+        .Dev{
+            color: black;
+            text-shadow: 3px 3px #cdd3d8;
+            margin-top: 0%;
+            float: right;
+            font-size: 25px;
+        }
+        .Social{
+        display: none;
+        }
+        .Perfil{
+            display: none;
+        }
+        .foto-pequena{
+            border-radius: 50%;
+            border: solid 2px white;
+            width: 150px;
+            margin-left: 0px;
+            margin-top: 5%;
         }
         .Home ul{
             list-style-type: none;
