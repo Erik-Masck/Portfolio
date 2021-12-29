@@ -52,6 +52,22 @@
             color: #289E97;
         }
 
+        /*Serviços*/
+
+        .Servicos{
+            background-color: white;
+            height: 170px;
+            text-align: center;
+            margin-top: -5%;
+            padding-top: 1%;
+        }
+        .Servicos-Titulo{
+            color: black;
+            text-shadow: 3px 3px #cdd3d8;
+            padding-left: 1%;
+            font-size: 55px;
+        }
+
         /*Imagens dos trebalhos no portilofio*/
 
         .Links-Imagens {
@@ -96,7 +112,7 @@
             height: 325px;
             text-align: center;
             margin-top: 0%;
-            padding-top: 1%;
+            padding-top: -35%;
         }
         .Sobre-Titulo{
             color: black;
