@@ -9,22 +9,7 @@
         
     }
     @media only screen and (max-width: 570px) {
-        .Home ul{
-            list-style-type: none;
-            display: flex;
-            margin-left: 60%;
-            margin-top: -10%;
-        }
-        .Home ul li a{
-            color: white;
-            text-decoration: none;
-            padding: 8px;
-            font-size: 3ex;
-            transition: .4s;
-        }
-        .Home ul li a:hover{
-            color: #289E97;
-        }
+        /*Menu*/
         .Dev{
             color: black;
             text-shadow: 3px 3px #cdd3d8;
@@ -44,11 +29,28 @@
         .Perfil{
             border-radius: 50%;
             border: solid 2px white;
-            width: 150px;
+            width: 135px;
             margin-left: 372px;
             margin-top: -5%;
         }
         .Social{
             display: none;
+        }.Home ul{
+            list-style-type: none;
+            display: flex;
+            margin-left: 60%;
+            margin-top: -8%;
         }
+        .Home ul li a{
+            color: white;
+            text-decoration: none;
+            padding: 8px;
+            font-size: 3ex;
+            transition: .4s;
+        }
+        .Home ul li a:hover{
+            color: #289E97;
+        }
+        
+        /*Rodapé*/
     }
