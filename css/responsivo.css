@@ -2,7 +2,47 @@
     }
 
     @media only screen and (max-width: 990px) {
-        
+        /*Menu*/
+        .Dev{
+            color: black;
+            text-shadow: 3px 3px #cdd3d8;
+            margin-top: -270px;
+            padding-left: 2px;
+            font-size: 45px;
+            line-height: 6.5;
+        }
+        .Dev-Front{
+            color: black;
+            text-shadow: 3px 3px #cdd3d8;
+            margin-top: -270px;
+            padding-left: -2px;
+            font-size: 41.5px;
+            line-height: 6.5;
+        }
+        .Perfil{
+            border-radius: 50%;
+            border: solid 2px white;
+            width: 135px;
+            margin-left: 372px;
+            margin-top: -5%;
+        }
+        .Social{
+            display: none;
+        }.Home ul{
+            list-style-type: none;
+            display: flex;
+            margin-left: 60%;
+            margin-top: -8%;
+        }
+        .Home ul li a{
+            color: white;
+            text-decoration: none;
+            padding: 8px;
+            font-size: 3ex;
+            transition: .4s;
+        }
+        .Home ul li a:hover{
+            color: #289E97;
     }
 
     @media only screen and (max-width: 770px) {
