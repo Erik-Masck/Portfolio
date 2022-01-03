@@ -8,22 +8,12 @@
     padding: 7%;
     
 }
-.Dev{
+.testando{
     color: black;
     text-shadow: 3px 3px #cdd3d8;
-    
-    padding-left: auto;
-    font-size: 45px;
-    
+    font-size: 2.5em;
 }
-.Dev-Front{
-    color: black;
-    text-shadow: 3px 3px #cdd3d8;
-    margin-top: -270px;
-    padding-left: auto;
-    font-size: 45px;
-    line-height: 6.5;
-}
+
 .Perfil{
     border-radius: 50%;
     border: solid 2px white;
