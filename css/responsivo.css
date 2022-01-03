@@ -399,4 +399,70 @@
             margin-top: 2%;
             height: 26px;}
     }
-}
+    @media only screen and (max-width: 420px){
+        .cabecalho{
+            max-width: 100%;
+        }
+        
+        .Perfil{
+            margin-top: 8%;
+            margin-left: 30%;
+            margin-bottom: 5%;
+            
+        }
+        .testando{
+            font-size: 2em;
+            margin-top: -8%;
+        }
+        .Dev{
+            
+           display: none;
+        }
+        .Home{
+            float: right;
+            margin-right: 60%;
+        }
+        .conteudo{
+            max-width: 100%;
+        }
+        .conteudo p{
+            font-size: 15px;
+        }
+        .Servicos {
+            max-width: 100%;
+            margin-bottom: 5%;
+            padding: 2%;
+            
+        }
+        .Servicos p{
+            text-align: center;
+            
+        }
+        .Sobre{
+            margin-bottom: 18%;
+            width: 95%;
+            padding: 3%;
+            
+            
+            
+        }
+        .Sobre p{
+            font-size: 15px;
+            text-align: justify;
+            line-height: 1.3em;
+        }
+        .Menu-rodape{
+            background-color:#289E97;
+            margin-left: -70%;
+        }
+        .Social-rodape{
+            margin-left: 60%;
+        }
+        .rodape p{
+            font-size: 16px;
+        }
+        .rodape h3{
+            font-size: 16pt;
+        }
+    }
+}    
