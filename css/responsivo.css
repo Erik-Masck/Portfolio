@@ -327,10 +327,11 @@
 
         .Sobre{
             background-color: white;
-            height: 325px;
+            height: 355px;
             text-align: center;
             margin-top: 0%;
             padding-top: -35%;
+            margin: 3%;
         }
         .Sobre-Titulo{
             color: black;
@@ -348,7 +349,7 @@
             float: left;    
             margin-top: 0;    
             background-color:#00dbe0;
-            height: 270px;
+            height: 100%;
             display: block;
             width:100%;
             padding-top: auto;
@@ -371,7 +372,7 @@
         .Social-rodape{
             list-style-type: none;
             display: flex;
-            margin-left: 425px;
+            margin-left: 60%;
             margin-top: -10%;
         }
         .Social-rodape img{
@@ -380,7 +381,7 @@
         .Menu-rodape ul{
             list-style-type: none;
             display: flex;
-            margin-left: 65%;
+            margin-left: 60%;
             margin-top: 0%;
         }
         .Menu-rodape ul li a{
