@@ -240,6 +240,9 @@
             font-size: 41.5px;
             line-height: 6.5;
         }
+        .testando{
+            display: none;
+        }
         .Perfil{
             border-radius: 50%;
             border: solid 2px white;
