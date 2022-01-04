@@ -250,7 +250,7 @@
             border-radius: 50%;
             border: solid 2px white;
             width: 135px;
-            margin-left: 200px;
+            margin-left: 195px;
             margin-top: 5.5%;
         }
         .Social{
@@ -410,27 +410,29 @@
             height: 26px;}
     }
     @media only screen and (max-width: 420px){
-        .cabecalho{
-            max-width: 100%;
+        .Dev{
+            color: black;
+            text-shadow: 3px 3px #cdd3d8;
+            margin-top: -270px;
+            padding-left: 2px;
+            font-size: 45px;
+            line-height: 6.5;
+        }
+        .Dev-Front{
+            color: black;
+            text-shadow: 3px 3px #cdd3d8;
+            margin-top: -270px;
+            padding-left: -2px;
+            font-size: 41.5px;
+            line-height: 6.5;
         }
         
         .Perfil{
-            margin-top: 8%;
-            margin-left: 30%;
-            margin-bottom: 5%;
-            
-        }
-        .testando{
-            font-size: 2em;
-            margin-top: -8%;
-        }
-        .Dev{
-            
-           display: none;
-        }
-        .Home{
-            float: right;
-            margin-right: 60%;
+            border-radius: 50%;
+            border: solid 2px white;
+            width: 135px;
+            margin-left: 150px;
+            margin-top: 5.5%;
         }
         .conteudo{
             max-width: 100%;
@@ -450,19 +452,18 @@
         }
         .Sobre{
             margin-bottom: 18%;
-            width: 95%;
-            padding: 3%;
+            width: 90%;
             
-            
-            
+            margin-right: -5%;
         }
         .Sobre p{
             font-size: 15px;
             text-align: justify;
             line-height: 1.3em;
+            text-align: center;
         }
         .Menu-rodape{
-            background-color:#289E97;
+            font-size: 5%;
             margin-left: -70%;
         }
         .Social-rodape{
