@@ -212,11 +212,7 @@
             margin-top: 0%;
         }
         .Menu-rodape ul li a{
-            color: white;
-            text-decoration: none;
-            padding: 8px;
-            font-size: 16px;
-            transition: .4s;
+            display: none;
         }
         .Menu-rodape li a:hover{
             color: #289E97;
@@ -379,7 +375,10 @@
             font-size: 20px;
         }
         .Social-rodape{
-            display: none;
+            list-style-type: none;
+            display: flex;
+            margin-left: 60%;
+            margin-top: -10%;
         }
         .Social-rodape img{
             width: 40px;
