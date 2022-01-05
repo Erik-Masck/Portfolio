@@ -379,10 +379,7 @@
             font-size: 20px;
         }
         .Social-rodape{
-            list-style-type: none;
-            display: flex;
-            margin-left: 60%;
-            margin-top: -10%;
+            display: none;
         }
         .Social-rodape img{
             width: 40px;
