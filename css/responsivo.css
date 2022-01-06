@@ -218,7 +218,8 @@
         }
         .Social{
             display: none;
-        }.Home ul{
+        }
+        .Home ul{
             list-style-type: none;
             display: flex;
             margin-left: 30%;
@@ -342,7 +343,7 @@
         .Social-rodape{
             list-style-type: none;
             display: flex;
-            margin-left: 40%;
+            margin-left: 5%;
             margin-top: 2%;
         }
         .Social-rodape img{
@@ -351,7 +352,7 @@
         .Menu-rodape ul{
             list-style-type: none;
             display: flex;
-            margin-left: 36%;
+            margin-left: 72%;
             margin-top: 0%;
         }
         .Menu-rodape ul li a{
@@ -375,36 +376,43 @@
             height: 26px;}
     }
     @media only screen and (max-width: 420px){
-        .Dev{
-            color: black;
-            text-shadow: 3px 3px #cdd3d8;
-            margin-top: -270px;
-            padding-left: 2px;
-            font-size: 45px;
-            line-height: 6.5;
+        .Cabecalho{
+            max-width: 100%;
         }
-        .Dev-Front{
-            color: black;
-            text-shadow: 3px 3px #cdd3d8;
-            margin-top: -270px;
-            padding-left: -2px;
-            font-size: 41.5px;
-            line-height: 6.5;
+        .Menu{
+            background-color:#00dbe0;
+            padding: 5%;
+            
         }
-        
+        .testanto{
+            font-size: 15%;
+        }
+        .Home ul{
+            list-style-type: none;
+            display: flex;
+            margin-left: 22%;
+            margin-top: 3%;
+        }
+        .Home ul li a{
+            color: white;
+            text-decoration: none;
+            padding: 8px;
+            font-size: 3ex;
+            transition: .4s;
+        }
+        .Home ul li a:hover{
+            color: #289E97;
+        }
         .Perfil{
             border-radius: 50%;
             border: solid 2px white;
             width: 135px;
-            margin-left: 150px;
+            margin-left: 35%;
             margin-top: 5.5%;
         }
-        .conteudo{
-            max-width: 100%;
-        }
-        .conteudo p{
-            font-size: 15px;
-        }
+
+        /*Serviço*/
+
         .Servicos {
             max-width: 100%;
             margin-bottom: 5%;
@@ -427,12 +435,15 @@
             line-height: 1.3em;
             text-align: center;
         }
+        
+        /*Menu rodapé*/
+
         .Menu-rodape{
             font-size: 5%;
             margin-left: -70%;
         }
         .Social-rodape{
-            margin-left: 60%;
+            margin-left: 35%;
         }
         .rodape p{
             font-size: 16px;
