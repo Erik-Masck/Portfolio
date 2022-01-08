@@ -8,9 +8,8 @@
    }
    .Menu{
        background-color:#00dbe0;
-       padding: 7%;
-       
-   }
+       padding: 7%;}
+
    .testando{
        color: black;
        text-shadow: 3px 3px #cdd3d8;
@@ -37,7 +36,7 @@
    .Home ul{
        list-style-type: none;
        display: flex;
-       margin-left: 80%;
+       margin-left: 78%;
        margin-top: -10%;}
    .Home ul li a{
        color: white;
@@ -64,12 +63,15 @@
        padding-left: 1%;
        font-size: 55px;
    }
+   .Servicos p{
+       padding: 3%;
+   }
 
    /*Imagens dos trebalhos no portilofio*/
    .Links-Imagens {
        background-color: white;
        display: flex;
-       padding-top: 5%;
+       padding-top: 15%;
    }
    .Links-Imagens ul{
        list-style-type: none;
@@ -103,7 +105,7 @@
    
    .Sobre{
        background-color: white;
-       height: 310px;
+       height: 350px;
        text-align: center;
        margin-top: 0%;
        padding-top: 1%;
@@ -115,7 +117,7 @@
        font-size: 55px;
    }
    .Sobre p{
-       margin: 1%;
+        padding: 3%;
    }
    
    /*Rodape*/
@@ -127,7 +129,7 @@
        height: 275px;
        display: block;
        width:100%;
-       padding-top: auto;
+       padding-top:auto;
    }
    .Contato{
        color: white;
@@ -153,7 +155,8 @@
    }
    .Social-rodape img{
        width: 50px;
-   }
+    }
+
    .Menu-rodape ul{
        list-style-type: none;
        display: flex;
@@ -170,7 +173,6 @@
    .Menu-rodape li a:hover{
        color: #289E97;
    }
-   
    
    .Right{
        background-color:#289E97;
@@ -585,7 +587,7 @@
             border-radius: 50%;
             border: solid 2px white;
             width: 135px;
-            margin-left: 35%;
+            margin-left: 30%;
             margin-top: 5.5%;
         }
 
