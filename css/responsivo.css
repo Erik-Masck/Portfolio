@@ -1,5 +1,187 @@
 @media only screen and (max-width: 1200px) {
+        /*Menu*/
+    *{margin: 0px; 
+    padding: 0px;
     }
+    .Menu{
+        background-color:#00dbe0;
+        padding: 7%;}
+ 
+    .testando{
+        color: black;
+        text-shadow: 3px 3px #cdd3d8;
+        font-size: 2.5em;
+    }
+    
+    .Perfil{
+        border-radius: 50%;
+        border: solid 2px white;
+        width: 20%;
+        margin-left: 48%;
+        margin-top: -10%;
+    }
+    .Social{
+        list-style-type: none;
+        display: flex;
+        margin-left: 49%;
+        margin-top: -9%;
+        padding-top: 9%;
+    }
+    .Social img{
+        width: 50px;
+    }
+    .Home ul{
+        list-style-type: none;
+        display: flex;
+        margin-left: 78%;
+        margin-top: -10%;}
+    .Home ul li a{
+        color: white;
+        text-decoration: none;
+        padding: 8px;
+        font-size: 3ex;
+        transition: .4s;
+    }
+    .Home ul li a:hover{
+        color: #289E97;
+    }
+    
+    /*Serviços*/
+    .Servicos{
+        background-color: white;
+        height: 125px;
+        text-align: center;
+        margin-top: 1%;
+        padding-top: 1%;
+    }
+    .Servicos-Titulo{
+        color: black;
+        text-shadow: 3px 3px #cdd3d8;
+        padding-left: 1%;
+        font-size: 55px;
+    }
+    .Servicos p{
+        padding: 3%;
+    }
+ 
+    /*Imagens dos trebalhos no portilofio*/
+    .Links-Imagens {
+        background-color: white;
+        display: flex;
+        padding-top: 15%;
+    }
+    .Links-Imagens ul{
+        list-style-type: none;
+    }
+    .Links-Imagens li{
+        width: 100%;
+        height: 100%;
+        padding-top: 5%;
+    }
+    .Links-Imagens img{
+        width:95%;
+        height: 350%;
+        border-radius: 2%;
+        background-size:100% auto;
+    }
+    .Texto-Img{
+        text-align: center;
+        text-shadow: 2px 2px #cdd3d8;
+        font-size: 150%;
+    }
+    .Bloco{
+        padding: 3%;
+        margin: 2%;
+    }
+    .Bloco_2{
+        padding: 3%;
+        margin: 2%;
+    }
+ 
+    /*Sobre*/
+    
+    .Sobre{
+        background-color: white;
+        height: 350px;
+        text-align: center;
+        margin-top: 0%;
+        padding-top: 1%;
+    }
+    .Sobre-Titulo{
+        color: black;
+        text-shadow: 3px 3px #cdd3d8;
+        padding-left: 1%;
+        font-size: 55px;
+    }
+    .Sobre p{
+         padding: 3%;
+    }
+    
+    /*Rodape*/
+    
+    .rodape{
+        float: left;    
+        margin-top: 0;    
+        background-color:#00dbe0;
+        height: 270%;
+        display: block;
+        width:100%;
+        padding-top:auto;
+    }
+    .Contato{
+        color: white;
+        text-shadow: 1px 1px black;
+        padding-left: 1%;
+        font-size: 25px;
+        margin-top: 2%;
+        padding-top: -16%;
+    }
+    .Atendimento{
+        padding-top: 50px;
+        color: black;
+        font-weight: bold;
+        padding-left: 1%;
+        font-size: 20px;
+    
+    }
+    .Social-rodape{
+        list-style-type: none;
+        display: flex;
+        margin-left: 650px;
+        margin-top: -7%;
+    }
+    .Social-rodape img{
+        width: 50px;
+     }
+ 
+    .Menu-rodape ul{
+        list-style-type: none;
+        display: flex;
+        margin-left: 63%;
+        margin-top: 0%;
+    }
+    .Menu-rodape ul li a{
+        color: white;
+        text-decoration: none;
+        padding: 10px;
+        font-size: 18px;
+        transition: .4s;
+    }
+    .Menu-rodape li a:hover{
+        color: #289E97;
+    }
+    
+    .Right{
+        background-color:#289E97;
+        font-size: 17px;
+        padding: 0.5%;
+        text-align: center;
+        color: white;
+        margin-bottom: auto;
+        margin-top: 2%;
+        height: 26%;}
+     }
+ 
 
     @media only screen and (max-width: 990px){
         /*Menu*/
